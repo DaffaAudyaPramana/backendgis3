@@ -1,4 +1,4 @@
-module github.com.DaffaAudyaPramana/backendgis3
+module github.com/daffaaudyapramana/backendgis3
 
 go 1.21.3
 
